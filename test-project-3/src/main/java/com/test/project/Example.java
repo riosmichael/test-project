@@ -8,6 +8,7 @@ public class Example {
 
 	@RequestMapping("/")
 	String home() {
+		System.out.println("Start of home method...");
 		return "Hello World!";
 	}
 
