@@ -10,6 +10,8 @@ public class Example {
 	String home() {
 		System.out.println("Start of home method...");
 		System.out.println("Added new line to print...Conflict test...");
+		
+		System.out.println("New Output...");
 		return "Hello World!";
 	}
 
