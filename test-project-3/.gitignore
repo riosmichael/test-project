@@ -1,4 +1,5 @@
 /target/
+/bin/
 
 # Eclipse Project file
 .settings/
